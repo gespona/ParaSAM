@@ -23,10 +23,7 @@ In the OpenCV AI Contest 2023, our project "ParaSAM" introduces a groundbreaking
 
 For full report check PDF [here](media-readme/ParaSAM%20-%20OpenCV%20AI%202023%20contest.pdf) and [hackster contest entry](https://www.hackster.io/parasam/parasam-a2dcde)
 
-Video link [here](https://youtu.be/qNulJCA25TQ)
-
-[video]
-
+Youtube Video link [here](https://youtu.be/qNulJCA25TQ)
 
 ## Repo structure
 2023/11/30: Initial delivery for OpenCV AI 2023 contest
