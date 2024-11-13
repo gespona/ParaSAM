@@ -25,7 +25,22 @@ For full report check PDF [here](media-readme/ParaSAM%20-%20OpenCV%20AI%202023%2
 
 Youtube Video link [here](https://youtu.be/qNulJCA25TQ)
 
+
+## 🚨 Important Disclaimer 🚨
+This repository contains all necessary instructions, resources, and guidance to independently set up and utilize the ParaSAM project. Please note the following:
+
+**Technical Expertise Required**: This project requires knowledge of Python, Machine Learning, and Unity to run the code and configure volumetric analyses. Users without this background are strongly encouraged to consult appropriate resources or team members with the necessary skills.
+
+**Independent Use**: The resources in this repository are intended for independent use. Detailed documentation has been provided to support all steps, and no additional support or assistance is available.
+
+**Limited Availability**: The project creator’s involvement is complete. Future inquiries should be addressed through internal team resources or alternative experts.
+
+**Thank you for your understanding and for respecting the guidelines provided. This repository is designed to empower your independent work on the ParaSAM project.**
+
 ## Repo structure
+
+2024/11/13: Update repo with new models checkpoints trained with dataset used for incoming publication. Follow full report above to learn how to setup and use Python and Unity project. For Unity project you need to install paid third-party assets. See section below.
+
 2023/11/30: Initial delivery for OpenCV AI 2023 contest
 
 This repo contains three main folders:
